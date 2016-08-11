@@ -1,6 +1,9 @@
 # Google Sheets Plugin 
 
-SUPINFO AppFactory plugin to view Google Sheets in your app.
+This plugin allow to view Google Sheets in your app.
+
+### Plugin Overview
+http://support.appdocumentation.com/knowledge-base/google-sheets-plugin-tutorial
 
 
 ### How to run test cases(For plugin)
